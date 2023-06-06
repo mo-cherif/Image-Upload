@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mo-cherif/Image-Upload/issues"
   },
-  "homepage": "https://github.com/mo-cherif/Image-Upload#readme"
+  "homepage": "https://github.com/mo-cherif/Image-Upload#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
